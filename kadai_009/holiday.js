@@ -4,8 +4,8 @@ for (let i = 0 ; i <=15; i++) {
   console.log(holidays[i]);
 }
 
-let index = 0;
-while (index !== 15) {
+let index = 0
+while (index !== 16) {
   console.log(holidays[index]);
   index++;
 }
